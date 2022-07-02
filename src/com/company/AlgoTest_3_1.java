@@ -43,36 +43,4 @@ public class AlgoTest_3_1 {
     }
 
 
-    /**
-     * String으로 받은 배열값 Int형으로 바꿔서 배열에 저장.
-     *
-     * @param str
-     * @return
-     */
-    public static int[] splitStrToInt(String str) {
-        String[] strArr = str.split(",");
-        int[] intArr = new int[strArr.length];
-
-        for (int i = 0; i < intArr.length; i++) {
-            intArr[i] = Integer.parseInt(strArr[i]);
-        }
-        return intArr;
-    }
-
-    /**
-     * String으로 받은 배열값 Char형으로 바꿔서 배열에 저장.
-     *
-     * @param str
-     * @return
-     */
-    public static char[] splitStr(String str) {
-        char[] orderArr = new char[str.length()];
-
-        for (int i = 0; i < str.length(); i++) {
-            orderArr[i] = str.charAt(i);
-        }
-        return orderArr;
-    }
-
-
 }
