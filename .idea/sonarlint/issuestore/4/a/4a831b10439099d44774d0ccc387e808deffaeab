@@ -1,0 +1,18 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¿™Ó¯
+[	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(Øåœ
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ç™·¬úÿÿÿÿ8ÈÇ‚ö³/
+S
+java:S1197"8Move the array designator from the variable to the type.(ã×ïøÿÿÿÿ
+H
+java:S1481 "-Remove this unused "myWallet" local variable.(‰çìşÿÿÿÿ
+I
+java:S1481!".Remove this unused "myRockCnt" local variable.(û—Ã˜úÿÿÿÿ
+H
+java:S1481#"-Remove this unused "mostChip" local variable.(÷éœªúÿÿÿÿ
+G
+java:S1128"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼
+M
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+<
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ
